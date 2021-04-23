@@ -1,6 +1,6 @@
 # Software-Testing
 
-#### Requirements
+### Requirements & Commands
 
 Equivalance Testing, OO Testing 
 - python
