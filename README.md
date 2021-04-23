@@ -9,5 +9,5 @@ Equivalance Testing, OO Testing
 
 Robustness Testing
 - node.js
-- chai.js
+- mocha, chai.js
 - npm run test
