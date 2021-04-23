@@ -5,7 +5,7 @@
 Equivalance Testing, OO Testing 
 - python
 - pytest 
-- pytest testFile.py
+- pytest testFile.py -v
 
 Robustness Testing
 - node.js
