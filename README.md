@@ -7,7 +7,16 @@ Equivalance Testing, OO Testing
 - pytest 
 - pytest testFile.py -v
 
-Robustness Testing
+Boundary Value Testing
 - node.js
 - mocha, chai.js
 - npm run test
+
+Pair-Wise
+CA Gen
+Test Cover
+- use their websites
+
+Mutation Testing
+- mut.py library needed
+- mut.py --target original.py --unit-test mutated.py -m --runner pytest
