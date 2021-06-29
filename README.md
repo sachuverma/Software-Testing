@@ -12,9 +12,9 @@ Boundary Value Testing
 - mocha, chai.js
 - npm run test
 
-Pair-Wise
-CA Gen
-Test Cover
+Pair-Wise    
+CA Gen   
+Test Cover   
 - use their websites
 
 Mutation Testing
